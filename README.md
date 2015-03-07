@@ -1,2 +1,2 @@
 # ocaml-drawing
-opam repository for fonctionnal drawning fonctions
+opam repository for functionnal drawning fonctions
