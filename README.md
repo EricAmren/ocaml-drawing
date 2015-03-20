@@ -4,7 +4,7 @@ ocaml code for functional drawing
 How to compile and execute:
 
 1. Building your .ml file with ocamlbuild :  
-Type this command on your terminal, be sure to change the extension .ml to .byte:  
+Type this command in a terminal, be sure to change the extension .ml to .byte:  
 ocamlbuild -tag thread -use-ocamlfind -pkgs core,vg.svg path/to/your/file.byte
 
 
